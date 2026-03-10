@@ -14,6 +14,7 @@ Inspired by the [TIL format](https://github.com/jbranchaud/til).
 #### March
 - [Markdown Basics](til/2026-03-07-markdown-basics.md)
 - [Rust Basics](til/2026-03-08-rust-basics.md)
+- [Rust Basics](til/2026-03-09-rust-basics.md)
 
 ---
 
