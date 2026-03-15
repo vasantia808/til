@@ -17,6 +17,7 @@ Inspired by the [TIL format](https://github.com/jbranchaud/til).
 - [Rust Basics](til/2026-03-09-rust-basics.md)
 - [Rust Clone Method](til/2026-03-10-rust-clone.md)
 - [Markdown Formatting](til/2026-03-12-markdown-formatting.md)
+- [Rust Troubleshooting](til/2026-03-15-rust-troubleshooting.md)
 
 ---
 
