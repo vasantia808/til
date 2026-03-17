@@ -8,8 +8,8 @@ Today I learned about the Rust .clone() method, which is used to create an indep
 
 ## Basic Syntax
 
-let original_item = String::from("important text");
-let cloned_item = original_item.clone();
+`let original_item = String::from("important text");
+let cloned_item = original_item.clone();`
 
 ## Why It Matters
 
